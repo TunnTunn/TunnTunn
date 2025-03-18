@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hi there, I'm On Quang Tung!
+# 👋 Hi there, I'm On Quang Tung!
 I am a 3rd-year Information Technology student at Hanoi University of Science and Technology (HUST), studying in the Vietnam-France IT program. Currently, I'm looking for an internship opportunity to enhance my skills and gain real-world experience.<br><br>🚀 About Me:<br>🎯 Passionate about DevOps, Cloud Computing, and Software Development<br>💡 Always eager to learn new technologies and improve problem-solving skills<br>🛠 Currently learning Docker, CI/CD, and System Administration<br>📌 Interested in open-source projects and automation
 
 
